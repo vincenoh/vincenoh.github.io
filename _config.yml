@@ -32,7 +32,7 @@ description:           >
 tagline:               Blog von Vince
 
 # A list of keywords for your blog
-keywords:              []
+keywords:              [TEST] [TEST2]
 
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
