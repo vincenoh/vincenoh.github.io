@@ -26,9 +26,12 @@ author1:
   # Comment/uncommet to show/hide
   # Rearrange to change the order in which they appear
   social:
+    linkedin: youngbin-vince-noh
+    email: vincenoh@yonsei.ac.kr
+    instagram: vince__andreas
     #twitter:         <username>
     #github:          <username>
-    email:           <vincenoh@yonsei.ac.kr>
+    #email:           vincenoh@yonsei.ac.kr
     # rss:             https://<url>/feed.xml
     # facebook:        <username>
     # google:          <number>
@@ -39,7 +42,7 @@ author1:
     # spotify:         <user>/<number>
     # soundcloud:      <username>
     # lastfm:          <username>
-    instagram:       <vince__andreas>
+    #instagram:       vince__andreas
     # flickr:          <string@string>
     # 500px:           <username>
     # dribbble:        <username>
@@ -57,7 +60,7 @@ author1:
     # npm:             <username>
     # hackernews:      <username>
     # trello:          <firstnamelastname>
-    linkedin:        <youngbin-vince-noh>
+    #linkedin:        youngbin-vince-noh
     # xing:            <firstname_lastname_counter>
     # blogger:         <number>
     # delicious:       <username>
