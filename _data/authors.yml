@@ -2,15 +2,14 @@
 # Must be the same as `author` in `_config.yml`.
 # Change `author1` to your shortname.
 author1:
-  name:              <firstname> <lastname>
-  email:             <mail@domain.tld>
+  name:              <Youngbin> <Noh>
+  email:             <vincenoh@yonsei.ac.kr>
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
-  about:             |
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+  about:          |  
+    This is Vince's Blog.
+    Under Construction.
     
     Open `_data/authors.yml` to edit this text.
 
@@ -26,9 +25,9 @@ author1:
   # Comment/uncommet to show/hide
   # Rearrange to change the order in which they appear
   social:
-    twitter:         <username>
-    github:          <username>
-    # email:           <mail@domain.tld>
+    #twitter:         <username>
+    #github:          <username>
+    email:           <vincenoh@yonsei.ac.kr>
     # rss:             https://<url>/feed.xml
     # facebook:        <username>
     # google:          <number>
@@ -57,7 +56,7 @@ author1:
     # npm:             <username>
     # hackernews:      <username>
     # trello:          <firstnamelastname>
-    # linkedin:        <firstname-lastname-string>
+    linkedin:        youngbin-vince-noh
     # xing:            <firstname_lastname_counter>
     # blogger:         <number>
     # delicious:       <username>
